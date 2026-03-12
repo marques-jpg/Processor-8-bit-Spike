@@ -21,9 +21,6 @@ The processor was built using several native logic blocks, supporting the classi
 3. Start the *Clock* signal in the simulation toolbar to see the instructions flow through the data path.
 4. You can manually interact with the circuit's internal state using Logisim's native mapping tools, such as the "Poke Tool", and other interactive buttons provided in the project.
 
-## Authors
-**Group T16** *(Based on the repository/project file identification).*
-
 ## License
 
 MIT License © 2025 Guilherme Marques.
